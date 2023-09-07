@@ -31,7 +31,7 @@ DevSecOps Final Project (RED)
 2. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/OmriYahav/-BIU-FinalProject
+   git clone https://github.com/elirazo96/-BIU-FinalProject
    ```
 
 3. Change to the project directory:
